@@ -1,5 +1,6 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<!-- //<img src="" align="center" style="width: 100%" /> -->
+  <h1>Hi, I am Pardeep Singh </h1>
 </div>  
   
 
