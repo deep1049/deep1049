@@ -2,7 +2,7 @@
 <!-- //<img src="" align="center" style="width: 100%" /> -->
   <h1>Hi, I am Pardeep Singh </h1>
 </div>  
-  <img src="![githubbanner](https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif)"/>
+  <img src="https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif"/>
 
 
 ### <div align="center">'I'm a certified Full-Stack developer i completed my 1000+hours coding practice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</div>  
