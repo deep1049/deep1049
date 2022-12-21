@@ -1,6 +1,6 @@
 <div align="center">
 <!-- //<img src="" align="center" style="width: 100%" /> -->
-  <h1>Hi, I am Pardeep Singh </h1>
+  <h1>Hi 👋, I am Pardeep Singh </h1>
 </div>  
   <img src="https://user-images.githubusercontent.com/103635801/206841304-900bfdc9-a7a1-4d1c-8dea-668bd28d8e81.gif"/>
 
