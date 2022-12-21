@@ -106,7 +106,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=deep1049&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=deep1049&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  &nbsp;
+ 
+ &nbsp;
+ 
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1049&" alt="Pardeep Singh" /></p>
 
 <br/>  
 
@@ -125,10 +129,4 @@
 </div>  
   
 
-<br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
