@@ -110,7 +110,7 @@
  
  &nbsp;
  
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1049&" alt="Pardeep Singh" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep1049" alt="Pardeep Singh" /></p>
 
 <br/>  
 
