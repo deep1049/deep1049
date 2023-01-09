@@ -22,7 +22,7 @@
 
 <br/>  
 
-##About Me
+## About Me
 <div  align="center">A passionate Aspiring Full Stack Developer skilled
 in MERN stack. Has 1000+ hours of practical coding
 experience and is proficient in HTML, CSS, and ReactJS.
