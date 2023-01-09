@@ -22,6 +22,29 @@
 
 <br/>  
 
+##About Me
+<div  align="center">A passionate Aspiring Full Stack Developer skilled
+in MERN stack. Has 1000+ hours of practical coding
+experience and is proficient in HTML, CSS, and ReactJS.
+Looking forward to working in an organization that is
+driven by hard work and professionalism where
+I can enhance my skills and knowledge.</div>
+
+<br/>
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/deep1049" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/pardeep-bedi/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -91,18 +114,7 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/deep1049" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/pardeep-bedi/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
 
 
 ## Github Stats  
