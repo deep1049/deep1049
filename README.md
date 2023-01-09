@@ -24,7 +24,7 @@
 
 ## About Me
 <div  align="center">A passionate Aspiring Full Stack Developer skilled
-in MERN stack. Has 1000+ hours of practical coding
+in MERN stack. Has  practical coding
 experience and is proficient in HTML, CSS, and ReactJS.
 Looking forward to working in an organization that is
 driven by hard work and professionalism where
