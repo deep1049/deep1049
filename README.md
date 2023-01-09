@@ -8,7 +8,7 @@
 ### <div align="center">'I'm a certified Full-Stack developer i completed my 1000+hours coding practice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</div>  
   
 
-- 🔭I am working booking site name as deep tour & travel  
+- 🔭I am learning full stack web development at Masai School  
   
 
 - 🌱 I’m currently learning typeScript and nextJS  
