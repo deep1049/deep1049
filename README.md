@@ -11,10 +11,10 @@
 - 🔭I am learning full stack web development at Masai School  
   
 
-- 🌱 I’m currently learning typeScript and nextJS  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+- 🌱 I’m currently learning typeScript and nextJS  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
